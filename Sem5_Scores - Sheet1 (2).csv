@@ -1,0 +1,11 @@
+Student_ID,Full_Name,Department,Math,Physics,Chemistry,Programming,Attendance
+T101,Akansha Ranade,IT,99,90,80,95,85 %
+T102,Priyal Verma,ECE,65,75,80,85,90 %
+T103,Rohan Gupta,IT,,82,86,88,78 %
+T104,Sneha Patel,MECH,92,88,90,96,95 %
+T105,Aditya Rao,IT,45,,50,60,65 %
+T106,Ananya Singh,ECE,88,91,85,92,88 %
+T107,Rahul Nair,CS,65,70,75,80,72 %
+T108,Kavya Reddy,IT,95,80,92,98,98 %
+T109,Vikram Joshi,MECH,67,60,58,72,80 %
+T110,Pooja Iyer,MECH,82,85,80,89,91 %
