@@ -1,0 +1,17 @@
+Student_ID,Student_Name,Department,Assessment_Type,Exam_Date,Subject_Code,Marks_Obtained,Max_Marks,Enrollment_Status
+S101, Aarav Sharma ,Computer Science,Midterm,2025/09/15,CS101,85,100,Active
+S101,Aarav Sharma,Comp Sci,Final,2025/11/20,CS101,92,100,Active
+S102,priya VERMA,Electronics,Midterm,15-09-2025,EC101,70,100,Active
+S102,priya VERMA,ECE,Final,20-11-2025,EC101,78,100,Active
+S103,Rohan Gupta,CS,Midterm,2025.09.15,CS101,45,100,Active
+S103,Rohan Gupta,CSE,Final,2025.11.20,CS101,52,100,Active
+S104,Sneha Patel,Information Tech,Midterm,2025/09/15,IT101,90,100,Active
+S104,Sneha Patel,IT,Final,2025/11/20,IT101,96,100,Active
+S105,aditya Rao ,Mechanical,Midterm,2025/09/15,ME101,35,100,Dropped
+S105,aditya Rao ,Mech Engg,Final,2025/11/20,ME101,40,100,Dropped
+S106,Ananya Singh,Computer Science,Midterm,2025/09/15,CS101,88,100,Active
+S106,Ananya Singh,CS,Final,2025/11/20,CS101,94,100,Active
+S107,Rahul Nair,ECE,Midterm,2025/09/15,EC101,65,100,Active
+S107,Rahul Nair,Electronics Engg,Final,2025/11/20,EC101,72,100,Active
+S108,Kavya Reddy,IT,Midterm,2025/09/15,IT101,92,100,Active
+S108,Kavya Reddy,Info Tech,Final,2025/11/20,IT101,98,100,Active

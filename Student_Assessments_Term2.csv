@@ -1,0 +1,15 @@
+Std_ID,Full_Name,Dept,Exam_Type,Assessment_Date,Course_Code,Score,Total_Possible,Enrollment_Status
+S101,Aarav Sharma,Computer Science,Midterm,2026/02/10,CS201,88,100,Active
+S101,Aarav Sharma,CS,Final,2026/04/25,CS201,95,100,Active
+S102,Priya Verma,ECE,Midterm,2026/02/10,EC201,75,100,Active
+S102,Priya Verma,Electronics,Final,2026/04/25,EC201,82,100,Active
+S103,Rohan Gupta,CSE,Midterm,2026/02/10,CS201,50,100,Active
+S103,Rohan Gupta,CS,Final,2026/04/25,CS201,60,100,Active
+S104,Sneha Patel,IT,Midterm,2026/02/10,IT201,94,100,Active
+S104,Sneha Patel,Information Tech,Final,2026/04/25,IT201,98,100,Active
+S106,Ananya Singh,CSE,Midterm,2026/02/10,CS201,90,100,Active
+S106,Ananya Singh,Computer Science,Final,2026/04/25,CS201,96,100,Active
+S107,Rahul Nair,ECE,Midterm,2026/02/10,EC201,70,100,Active
+S107,Rahul Nair,Electronics,Final,2026/04/25,EC201,75,100,Active
+S108,Kavya Reddy,IT,Midterm,2026/02/10,IT201,95,100,Active
+S108,Kavya Reddy,IT,Final,2026/04/25,IT201,100,100,Active
